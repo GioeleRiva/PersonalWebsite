@@ -46,13 +46,9 @@ if ($_POST)
             $mail->send();
         }
     }
-    catch(Exception $e)
+    catch(\Exception $e)
     {
 	   //echo $e->errorMessage();
-    }
-    catch(Exception $e)
-    {
-	   //echo $e->getMessage();
     }
 }
 function getUserIpAddr()
