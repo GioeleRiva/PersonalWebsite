@@ -1,0 +1,23 @@
+{
+	"language":"en",
+	"home_title":"Home",
+	"education_title":"Education",
+	"experience_title":"Experience",
+	"skills_title":"Skills",
+	"portfolio_title":"Portfolio",
+	"contact_title":"Contact",
+	"home_text":"Welcome!<br>My name is Gioele Riva, and I'm a software engineer.<br>This website is an interactive resume that wants to show my abilities, interests and passions more easily.<br><br>If you want a printable version, you can find it <a href=\"files/en/Curriculum Gioele Riva.pdf\" download>HERE</a>.",
+	"education_text":"<li><p><b>Bachelor of Engineering in Computer Science (BE)</b><br>Polytechnic University of Milan - Milan</p></li><li><p><b>Scientific High School Degree</b><br>Istituto Di Istruzione Superiore Statale \"Vittorio Bachelet\" - Oggiono</p></li><li><p><b>Cambridge English Certificate First</b><br>Advanced level in written production and comprehension, intermediate level in oral production</p></li><li><p><b>ECDL Certificate</b></p></li>",
+	"experience_text":"<li><p><b>From May 2019</b><br>Developer at Fincons S.p.A. (<a href=\"http://www.finconsgroup.com/\" target=\"_blank\">www.finconsgroup.com</a>)</p></li><li><p><b>June 2017 - June 2018</b><br>Intern at Next S.p.A. (<a href=\"https://www.nexths.it/\" target=\"_blank\">www.nexths.it</a>) as Web Developer and Graphic Designer</p></li><br><br><b>Other Experiences</b><br><br><li><p><b>From November 2013</b><br>Independent Artist at Redbubble Ltd (<a href=\"https://www.redbubble.com/\" target=\"_blank\">www.redbubble.com</a>)</p></li><li><p><b>November 2017 and November 2018</b><br>IT expert at Lucca Comics &amp; Games for Next S.p.A.</p></li>",
+	"skills_text":"<li><p>Deep knowledge of Windows and Linux operating systems</p></li><li><p>Mastery of Microsoft Office tools</p></li><li><p>Graphic design capabilities (Adobe Photoshop, Adobe Illustrator)</p></li><li><p>Bases of Three-dimensional modeling (Autodesk Fusion 360, Sketchup) and 3D printing experience</p></li><li><p>Programming: Java (Spring framework, Android), C/C++ (Arduino), HTML, JavaScript, PHP, MySQL, Oracle SQL, Microsoft SQL Server, Python bases and C#</p></li>",
+	"portfolio_text":"Source of inspiration for my work are personal needs or problems that I believe could be solved with skills that I acquired or that I am interested in acquiring. I'll collect in the Blog the small projects born from these needs, trying to document the processes and techniques used during their creation",
+	"portfolio_button":"Go to the Blog",
+	"contact_text":"<a href=\"https://www.linkedin.com/in/gioeleriva/\">LINK</a> to my LinkedIn profile<br><br><br><br><br><br>Send me a message:<br><br>",
+	"contact_name":"Name&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;",
+	"contact_email":"Email&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;",
+	"contact_message":"Message&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;",
+	"contact_button":"Send",
+	"under_construction":"Section under construction",
+	"message_sent":"Message sent. Thank you!",
+	"message_error":"Fill in all fields"
+}

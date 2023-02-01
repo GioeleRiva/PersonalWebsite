@@ -1,0 +1,23 @@
+{
+	"language":"it",
+	"home_title":"Home",
+	"education_title":"Istruzione",
+	"experience_title":"Esperienza",
+	"skills_title":" Capacit&agrave;",
+	"portfolio_title":"Portfolio",
+	"contact_title":"Contatti",
+	"home_text":"Benvenuto!<br>Sono Gioele Riva, dottore in Ingegneria Informatica.<br>Questo sito internet &egrave; un Curriculum Vitae interattivo, che vuole mostrare pi&ugrave; facilmente le mie capacit&agrave;, interessi e passioni.<br><br>Se desideri una versione cartacea, puoi trovarla <a href=\"files/it/Curriculum Gioele Riva.pdf\" download>QUI</a>.",
+	"education_text":"<li><p><b>Laurea in Ingegneria Informatica</b><br>Politecnico di Milano - Milano (MI)</p></li><li><p><b>Diploma di Liceo Scientifico P.N.I.</b><br>Istituto Di Istruzione Superiore Statale \"Vittorio Bachelet\" - Oggiono (LC)</p></li><li><p><b>Cambridge English Certificate First</b><br>Produzione scritta e comprensione di livello avanzato, produzione orale di livello intermedio</p></li><li><p><b>Certificato ECDL</b><br>Certificato di padronanza degli strumenti Microsoft Office</p></li>",
+	"experience_text":"<li><p><b>Da Maggio 2019</b><br>Developer presso Fincons S.p.A. (<a href=\"http://www.finconsgroup.com/\" target=\"_blank\">www.finconsgroup.com</a>)</p></li><li><p><b>Giugno 2017 - Giugno 2018</b><br>Stagista presso Next S.p.A. (<a href=\"https://www.nexths.it/\" target=\"_blank\">www.nexths.it</a>) con ruolo di Web Developer e Grafico</p></li><br><br><b>Altre Esperienze</b><br><br><li><p><b>Da Novembre 2013</b><br>Artista indipendente presso Redbubble Ltd (<a href=\"https://www.redbubble.com/\" target=\"_blank\">www.redbubble.com</a>)</p></li><li><p><b>Novembre 2017 e Novembre 2018</b><br>Professionista informatico presso Lucca Comics &amp; Games per conto di Next S.p.A.</p></li>",
+	"skills_text":"<li><p>Conoscenza approfondita dei sistemi operativi Windows e Linux</p></li><li><p>Padronanza degli strumenti Microsoft Office</p></li><li><p>Capacit&agrave; di realizzazione grafica (Adobe Photoshop, Adobe Illustrator)</p></li><li><p>Basi di modellazione tridimensionale (Autodesk Fusion 360, Sketchup) ed esperienza in stampa 3D</p></li><li><p>Programmazione: Java (framework Spring, Android), C/C++ (Arduino), HTML, JavaScript, PHP, MySQL, Oracle SQL, Microsoft SQL Server, basi di Python e C#</p></li>",
+	"portfolio_text":"Fonte di ispirazione per i miei lavori sono problemi o necessit&agrave; personali che ritengo risolvibili con capacit&agrave; acquisite o che mi interessa acquisire. Nel Blog raccolgo i piccoli progetti nati da queste esigenze, cercando di documentarne i processi e le tecniche utilizzate durante la creazione.",
+	"portfolio_button":"Vai al Blog",
+	"contact_text":"<a href=\"https://www.linkedin.com/in/gioeleriva/\">LINK</a> al mio profilo LinkedIn<br><br><br><br><br><br>Inviami un messaggio:<br><br>",
+	"contact_name":"Nome&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;",
+	"contact_email":"Indirizzo&nbsp;email&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;",
+	"contact_message":"Messaggio&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;",
+	"contact_button":"Invia",
+	"under_construction":"Sezione in costruzione",
+	"message_sent":"Messaggio inviato. Grazie!",
+	"message_error":"Compilare tutti i campi"
+}
